@@ -8,11 +8,11 @@ public class recursTP{
         while(true){
        System.out.println("Welcome!!!!!");
        System.out.println("Choose one to do the following operations: ");
-       System.out.println("1.)Factorial");
-       System.out.println("2.)Find the greatest common divisor of two (2) no-zero integers");
-       System.out.println("3.)Fibonacci");
-       System.out.println("4.)Determine whether an integer is even or odd. ");
-       System.out.print("Choose an option:");
+       System.out.println("1.) Factorial");
+       System.out.println("2.) Find the greatest common divisor of two (2) no-zero integers");
+       System.out.println("3.) Fibonacci");
+       System.out.println("4.) Determine whether an integer is even or odd. ");
+       System.out.print("Choose an option: ");
        int choice = sc.nextInt();
 
        sc.nextLine();
